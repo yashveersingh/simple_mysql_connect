@@ -1,0 +1,18 @@
+{
+    "name": "yashveer_singh/simple_mysql_connect",
+    "description": "This library helps in easy connection and query with mysql",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yashveer Singh",
+            "email": "yashveersingh444444@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "yashveer\\": "src/"
+        }
+    },
+    "require": {}
+}
