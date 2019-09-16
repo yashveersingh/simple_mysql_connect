@@ -1,6 +1,6 @@
 {
     "name": "yashveer_singh/simple_mysql_connect",
-    "description": "This library helps in easy connection and query with mysql",
+    "description": "This library helps in easy connection and query with mysql and mysqli",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -14,5 +14,7 @@
             "yashveer\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "ext-mysqli": "*"
+    }
 }
