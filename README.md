@@ -1,5 +1,7 @@
 #Simple MySql Connect
-
+\
+installation: `composer require yashveer_singh/simple_mysql_connect`
+\
 USAGE:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;import using `use yashveer\Database;`\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;initialise using `Database::init('TABLE_NAME','USERNAME','PASSWORD','HOST');`\
