@@ -13,8 +13,5 @@
         "psr-4": {
             "yashveer\\": "src/"
         }
-    },
-    "require": {
-        "ext-mysqli": "*"
     }
 }
